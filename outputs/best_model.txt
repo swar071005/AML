@@ -1,0 +1,19 @@
+Student Performance Prediction
+================================
+
+Selected Model: Baseline Random Forest
+Selection Criterion: Highest Weighted F1
+
+ML Features:
+- Attendance
+- Study Hours
+- Assignment Performance
+- Class Participation
+- Previous Semester GPA
+
+Selected Features:
+- Assignment Performance
+- Class Participation
+- Attendance
+- Previous Semester GPA
+- Study Hours
